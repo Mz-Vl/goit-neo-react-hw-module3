@@ -1,0 +1,18 @@
+.contact {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid #363535;
+    margin-bottom: 10px;
+    height: 80px;
+    width: 300px;
+}
+
+.contactWrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
